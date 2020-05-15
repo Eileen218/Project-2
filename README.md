@@ -1,14 +1,28 @@
-# Project-2
+# AkanNames
 the website gives you a birth name in ghana according to the month and date you were born
-#Technologies Used
-HTML & CSS (Bootstrap)
-JavaScript 
-Setup Instructions and Installation
-#Clone this repository to a location in your file system. git clone https://github.com/Eileen218/Project-2.git
-Open index.html on your Browser.
-#Known Bugs
-If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+## Author
+
+[Eileen Muthoni](https://github.com/Eileen218/Project-2.git)
+
+## Description
+
+This project is a web application that gives you ghana name according to the day you were Born.
+
+## Screenshot
+<img src="webpage.png" width="900px" height="440px">
+
+## Live Page
+https://eileen218.github.io/Project-2/.
+
+
+## Technologies Used
+
+* [HTML5]
+* [CSS]
+
+## License
+* *MIT License:*
+* Copyright (c) 2019 **Eileen**
 
 
